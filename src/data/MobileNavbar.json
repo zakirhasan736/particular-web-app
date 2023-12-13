@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Home",
+        "path": "/"
+    },
+    {
+        "name": "Case Studies",
+        "path": "/case-study",
+        "dropdownItems": [
+            {
+                "name": "Approach",
+                "path": "/case-study/zanbase"
+            },
+            {
+                "name": "Ai & Humanity",
+                "path": "/case-study/ai-and-humanity"
+            },
+            {
+                "name": "Hult Id School",
+                "path": "/case-study/hult-ib-school"
+            },
+            {
+                "name": "knights Academy",
+                "path": "/case-study/knights-academy"
+            },
+            {
+                "name": "NAEO",
+                "path": "/case-study/naeo"
+            },
+            {
+                "name": "Village Of Genal",
+                "path": "/case-study/village-of-genal"
+            }
+        ]
+    },
+    {
+        "name": "Services",
+        "path": "/services",
+        "dropdownItems": [
+           {
+            "name": "Branding",
+            "path": "/services/branding"
+        },
+        {
+            "name": "PPC",
+            "path": "/services/ppc"
+        },
+        {
+            "name": "SEO",
+            "path": "/services/seo"
+        },
+        {
+            "name": "Social Media",
+            "path": "/services/social-media"
+        },
+        {
+            "name": "Visual Media",
+            "path": "/services/visual-media"
+        },
+        {
+            "name": "Web Design Development",
+            "path": "/services/web-design-development"
+        }
+        ]
+    },
+    {
+        "name": "Our Approach",
+        "path": "/our-approach",
+        "dropdownItems": [
+            {
+                "name": "Free Thought",
+                "path": "/our-approach/free-thought"
+            },
+            {
+                "name": "Attention To Details",
+                "path": "/our-approach/attention-to-detail"
+            },
+            {
+                "name": "Pioneering",
+                "path": "/our-approach/pioneering"
+            }
+        ]
+    },
+    {
+        "name": "Features",
+        "path": "/features",
+        "dropdownItems": [
+            {
+                "name": "Color Craft",
+                "path": "/features/colour-craft"
+            },
+            {
+                "name": "Games Room",
+                "path": "/features/games-room"
+            }
+        ]
+    }
+]
