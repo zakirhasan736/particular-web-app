@@ -3,7 +3,7 @@ import ArticlesCategory from "@/pages/Articles-page/ArticleCategory";
 async function getData(category: any) {
 	try {
 		const res = await fetch(
-			`http://localhost:3000/data/articles/${category}.json`,
+			`https://particular-web-app.vercel.app/data/articles/${category}.json`,
 			{
 				cache: "no-store",
 			},
